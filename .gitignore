@@ -13,6 +13,7 @@ __pycache__/
 saved_model/
 training_1/
 training_2/
+my_dir/
 
 # Distribution / packaging
 .Python
